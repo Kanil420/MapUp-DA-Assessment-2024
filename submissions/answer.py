@@ -3,7 +3,7 @@ from typing import List
 def reverse_by_n_elements(lst: List[int], n: int) -> List[int]:
    
     result = []
-    result1=[]
+    
     i = 0
 
     while i < len(lst):
